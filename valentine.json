@@ -1,39 +1,159 @@
 {
-	"wallpapers": [
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+
+
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/bLQ9Jy/w14.png",
+				"thumbUrl": "https://preview.ibb.co/bLQ9Jy/w14.png",
+				"name": "Wallpaper_1",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/eVE3dy/w13.png",
+				"thumbUrl": "https://preview.ibb.co/eVE3dy/w13.png",
+				"name": "Wallpaper_2",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://image.ibb.co/gxabyy/w10.png",
+				"thumbUrl": "https://image.ibb.co/gxabyy/w10.png",
+				"name": "Wallpaper_3",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/n8UQrJ/w12.png",
+				"thumbUrl": "https://preview.ibb.co/n8UQrJ/w12.png",
+				"name": "Wallpaper_4",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/c4KQrJ/w11.png",
+				"thumbUrl": "https://preview.ibb.co/c4KQrJ/w11.png",
+				"name": "Wallpaper_5",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/ghqtdy/w9.png",
+				"thumbUrl": "https://preview.ibb.co/ghqtdy/w9.png",
+				"name": "Wallpaper_6",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/ekK8BJ/w8.png",
+				"thumbUrl": "https://preview.ibb.co/ekK8BJ/w8.png",
+				"name": "Wallpaper_7",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/dJE8BJ/w7.png",
+				"thumbUrl": "https://preview.ibb.co/dJE8BJ/w7.png",
+				"name": "Wallpaper_8",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://image.ibb.co/ebzx5d/w6.png",
+				"thumbUrl": "https://image.ibb.co/ebzx5d/w6.png",
+				"name": "Wallpaper_9",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/exfgWJ/w5.png",
+				"thumbUrl": "https://preview.ibb.co/exfgWJ/w5.png",
+				"name": "Wallpaper_10",
+                "category": "people"
+			},
 		{
-			"name": "2322",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/2322.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
-		},
-		{
-			"name": "Airplane",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Airplane.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
-		},
-		{
-			"name": "AutumnLeaves",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/AutumnLeaves.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
-		},
-		{
-			"name": "Bay",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Bay.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
-		},
-		{
-			"name": "Birds",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Birds.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
-		}
-	]
+				"author": "Web Reference",
+				"url": "https://image.ibb.co/hqGMWJ/w4.png",
+				"thumbUrl": "https://image.ibb.co/hqGMWJ/w4.png",
+				"name": "Wallpaper_11",
+                "category": "people"
+			},
+	    {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/jMeVQd/w3.png",
+				"thumbUrl": "https://preview.ibb.co/jMeVQd/w3.png",
+				"name": "Wallpaper_12",
+                "category": "people"
+			},
+	     {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/bR3eJy/w2.png",
+				"thumbUrl": "https://preview.ibb.co/bR3eJy/w2.png",
+				"name": "Wallpaper_13",
+                "category": "people"
+			},
+	     {
+				"author": "Web Reference",
+				"url": "https://image.ibb.co/g8nQQd/wallpaper_02.png",
+				"thumbUrl": "https://image.ibb.co/g8nQQd/wallpaper_02.png",
+				"name": "Wallpaper_14",
+                "category": "people"
+			},
+	     {
+				"author": "Web Reference",
+				"url": "https://preview.ibb.co/iVeKJy/w1.png",
+				"thumbUrl": "https://preview.ibb.co/iVeKJy/w1.png",
+				"name": "Wallpaper_15",
+                "category": "people"
+			}
+	    
+		]
 }
